@@ -7,10 +7,17 @@ PDF:
 
 Cite:
 @inproceedings{mosab2025stylometry,
+
 title={Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts},
+
 author={},
+
 booktitle={},
+
 volume={},
+
 number={},
+
 month={},
+
 year={}}

@@ -1,4 +1,4 @@
-# **Text Generation XAI**
+# **Text Generation, Evaluation, and Explanation**
 
 **Paper:** "Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts"<br />
 <br />

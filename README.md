@@ -6,7 +6,7 @@ DOI:<br />
 PDF:<br />
 <br />
 **Cite:**<br />
-@inproceedings{mosab2025stylometry,<br />
+@inproceedings{rezaei2025stylometry,<br />
 title={Generation, Evaluation, and Explanation of Novelists’ Styles with Single-Token Prompts},<br />
 author={},<br />
 booktitle={},<br />
